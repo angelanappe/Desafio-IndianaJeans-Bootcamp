@@ -1,0 +1,1 @@
+Producto{articulo='Zapatos', precio='20000', descripcion='zapatos de cuero', codigo='1234', talla='38', marca='adidas', color='negro'}
